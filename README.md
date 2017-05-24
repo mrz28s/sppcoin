@@ -47,7 +47,7 @@ Start up the new sppcoind.
 
 
 See the sppcoin site:
-  http://sppcoin.com/
+  http://sppcoindesign.wixsite.com/sppcoin
 for help and more information.
 
 ### Wallet themes
